@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InformaticaMovilActividad2.1</string>
+    <string name="button_send">Send</string>
+    <string name="mensaje_recibido">Mensaje recibido</string>
+    <string name="enter_your_message_here">Enter your message here</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter your reply here</string>
+    <string name="text_header_reply">Reply received</string>
+</resources>
